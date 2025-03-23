@@ -17,7 +17,7 @@
 ## 🛠️ Installation  
 ```bash
 # Clone the repository  
-git clone https://github.com/your-username/RetroType.git  
+git clone https://github.com/teja-afk/RetroType.git  
 cd RetroType  
 
 # Compile (requires a C compiler like gcc)  
